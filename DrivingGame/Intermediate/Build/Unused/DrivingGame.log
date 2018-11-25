@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Building 3 actions with 4 processes...
+    [1/3] DrivingGameGameMode.cpp
+    [2/3] UE4Editor-DrivingGame.lib
+       Creating library A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\UE4Editor-DrivingGame.lib and object A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\UE4Editor-DrivingGame.exp
+    [3/3] UE4Editor-DrivingGame.dll
+       Creating library A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\UE4Editor-DrivingGame.suppressed.lib and object A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\UE4Editor-DrivingGame.suppressed.exp
+  Deploying DrivingGameEditor Win64 Development...
+  Total build time: 2.75 seconds (Parallel executor: 1.55 seconds)

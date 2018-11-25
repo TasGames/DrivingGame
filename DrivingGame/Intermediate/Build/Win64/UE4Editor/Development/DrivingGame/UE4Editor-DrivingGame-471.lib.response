@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DrivingGame-471.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\DrivingGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\DrivingGame.cpp.obj"
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\DrivingGameGameMode.cpp.obj"
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\DrivingGame.init.gen.cpp.obj"
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\DrivingGameGameMode.gen.cpp.obj"
+"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\PCLaunch.rc.res"
+/OUT:"A:\Projects\Unreal Engine Projects\DrivingGame\DrivingGame\Intermediate\Build\Win64\UE4Editor\Development\DrivingGame\UE4Editor-DrivingGame-471.lib"

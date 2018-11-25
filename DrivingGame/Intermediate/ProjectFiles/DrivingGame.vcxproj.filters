@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\DrivingGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{6D97166A-1D43-42D7-855D-2587311BE760}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DrivingGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DrivingGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{DB00B9CF-4AEC-4586-9672-C5C3459106E3}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\DrivingGame">
+			<UniqueIdentifier>{9B914ADE-D054-44C3-9A2B-962CD0BDC501}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DrivingGame\DrivingGame.Build.cs">
+			<Filter>Source\DrivingGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\DrivingGame\DrivingGame.cpp">
+			<Filter>Source\DrivingGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DrivingGame\DrivingGame.h">
+			<Filter>Source\DrivingGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\DrivingGame\DrivingGameGameMode.cpp">
+			<Filter>Source\DrivingGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DrivingGame\DrivingGameGameMode.h">
+			<Filter>Source\DrivingGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
